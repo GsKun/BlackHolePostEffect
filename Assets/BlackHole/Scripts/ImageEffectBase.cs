@@ -1,11 +1,4 @@
-﻿/****************************************
-Author: JunCi Yu
-Company: fengyuzhu
-Email:kirby_yu@hotmail.com
-Data: 2019/9/20 21:1:44
-*****************************************/
-
-using UnityEngine;
+﻿using UnityEngine;
 
 [ExecuteInEditMode]
 [RequireComponent(typeof(Camera))]
